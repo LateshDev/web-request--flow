@@ -2,6 +2,7 @@
 This project demonstrates what happens behind the scenes when a user opens a website, from DNS lookup to receiving the webpage in the browser. It covers DNS, TCP, TLS, HTTP requests, and browser rendering.
 
 Introduction
+
 When we type a website URL  into the browser and press Enter, the webpage does not appear instantly. Behind the scenes, several networking steps occur within milliseconds before the browser displays the page.
 
 1. DNS (Domain Name System)
