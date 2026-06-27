@@ -1,7 +1,9 @@
  # web-request--flow
-demonstrating the web request flow, including DNS lookup, browser network analysis, and HTTP request/response inspection.
+This project demonstrates what happens behind the scenes when a user opens a website, from DNS lookup to receiving the webpage in the browser. It covers DNS, TCP, TLS, HTTP requests, and browser rendering.
+
 Introduction
 When we type a website URL  into the browser and press Enter, the webpage does not appear instantly. Behind the scenes, several networking steps occur within milliseconds before the browser displays the page.
+
 1. DNS (Domain Name System)
 What it does: DNS converts the website name into an IP address.
 Example:
@@ -51,6 +53,9 @@ Status Code (e.g., 200 OK)
 The browser may send many additional requests to download all these files.
 
 ![Terminal Output](terminal-output.png)
+
+
+
 
 ![Network Tab](network-tab.png)
 
