@@ -9,9 +9,10 @@ When we type a website URL  into the browser and press Enter, the webpage does n
 What it does: DNS converts the website name into an IP address.
 Example:
 
-shorterloop.com
-        ↓
-76.76.21.21
+github.com
+↓
+140.82.xxx.xxx (IP may vary)
+
 The browser cannot communicate using the website name, so it first asks a DNS server for the corresponding IP address.
 Command used:
 Bash
