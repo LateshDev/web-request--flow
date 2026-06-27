@@ -49,3 +49,6 @@ Images
 Fonts
 Status Code (e.g., 200 OK)
 The browser may send many additional requests to download all these files.
+
+![Terminal Output](terminal-output.png)
+
