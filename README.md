@@ -1,7 +1,7 @@
  # web-request--flow
 demonstrating the web request flow, including DNS lookup, browser network analysis, and HTTP request/response inspection.
 Introduction
-When we type a website URL (for example, https://shorterloop.com) into the browser and press Enter, the webpage does not appear instantly. Behind the scenes, several networking steps occur within milliseconds before the browser displays the page.
+When we type a website URL  into the browser and press Enter, the webpage does not appear instantly. Behind the scenes, several networking steps occur within milliseconds before the browser displays the page.
 1. DNS (Domain Name System)
 What it does: DNS converts the website name into an IP address.
 Example:
