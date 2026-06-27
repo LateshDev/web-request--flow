@@ -52,7 +52,7 @@ The browser may send many additional requests to download all these files.
 
 ![Terminal Output](terminal-output.png)
 
-![Network Tab](network-tab.png
+![Network Tab](network-tab.png)
 
 Conclusion
 
