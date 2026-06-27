@@ -20,6 +20,8 @@ If available:
 Bash
 dig shorterloop.com +short
 
+![Terminal Output](terminal-output.png)
+
 2. TCP (Transmission Control Protocol)
 Once the IP address is known, the browser establishes a TCP connection with the server.
 This happens using the Three-Way Handshake:
@@ -52,10 +54,6 @@ Images
 Fonts
 Status Code (e.g., 200 OK)
 The browser may send many additional requests to download all these files.
-
-![Terminal Output](terminal-output.png)
-
-
 
 
 ![Network Tab](network-tab.png)
