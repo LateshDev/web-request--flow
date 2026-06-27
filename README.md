@@ -23,8 +23,8 @@ dig shorterloop.com +short
 
 ![Terminal Output](terminal-output.png)
 
-2. TCP (Transmission Control Protocol)
-3. 
+2. TCP(Transmission Control Protocol)
+  
 Once the IP address is known, the browser establishes a TCP connection with the server.
 This happens using the Three-Way Handshake:
 Client → SYN
@@ -33,7 +33,7 @@ Client → ACK
 This ensures a reliable connection before any data is exchanged.
 
 4. TLS (Transport Layer Security)
-5. 
+ 
 Since the website uses HTTPS, a TLS handshake occurs.
 During this step:
 The server sends its SSL/TLS certificate.
@@ -42,7 +42,7 @@ Both create encryption keys.
 Now all communication is encrypted and secure.
 
 6. HTTP Request
-7. 
+ 
 The browser sends an HTTP request to the server.
 Example:
 
@@ -50,7 +50,7 @@ GET /
 The server processes the request and prepares the webpage.
 
 5. HTTP Response
-6. 
+ 
 The server sends back:
 HTML
 CSS
