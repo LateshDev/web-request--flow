@@ -52,6 +52,8 @@ The browser may send many additional requests to download all these files.
 
 ![Terminal Output](terminal-output.png)
 
+![Network Tab](network-tab.png
+
 Conclusion
 
 When a user enters a website URL and presses Enter, the browser performs several networking steps before displaying the webpage. It first uses DNS to find the website's IP address, establishes a reliable connection using TCP, secures the connection with TLS, sends an HTTP request, and receives the server's response. Finally, the browser processes the HTML, CSS, and JavaScript files and paints the pixels to render the webpage on the screen. This assignment demonstrated that what appears to be an instant action actually involves multiple coordinated processes happening within milliseconds.
